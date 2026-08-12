@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+
+.env
+.env.local
+.env.*.local
+
+.runtime-home/
+.npm-cache/
+.tmp/
+
+*.log
+.DS_Store
