@@ -50,7 +50,7 @@ Missing a day never creates a large problem debt. Due reviews take priority and 
 Requirements: Node.js 20.9 or newer.
 
 ```bash
-npm ci
+npm install
 npm run dev
 ```
 
